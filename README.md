@@ -1,4 +1,4 @@
-Completed the following tasks:
+Following tasks are done:
 1. Download the MS-COCO annotations and create a histogram of object classes.
 2. Next, extract two sets of 100 images in which the a) most often occurring object class is present, and b) least often occurring object class is present.
 3. For each of those images, replace the background (where no object is present) with a black-colored background.
